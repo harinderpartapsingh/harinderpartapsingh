@@ -83,7 +83,7 @@ Parcel delivery marketplace connecting senders with drivers using **Next.js, Fir
 
 ### 🍱 HomeEatz
 
-Food marketplace for home-based chefs built with **Java Spring Boot, React, TypeScript, MongoDB, Azure, Stripe, Google OAuth, and Google Places API**.
+Food marketplace for home-based chefs built with **Java Spring Boot, React, TypeScript, MongoDB, Azure, Stripe, Google OAuth, and Google Places API**
 
 **Highlights**
 - Chef menu and order management
