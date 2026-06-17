@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Java • Spring Boot • Angular • React • AWS • Apigee • Docker • CI/CD • Dynatrace
+  Java • Spring Boot • Angular • React • AWS • Apigee • Terraform • Docker • CI/CD • Dynatrace
 </p>
 
 <p align="center">
